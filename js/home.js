@@ -8,7 +8,7 @@ var aText = new Array(
     "I want it to look kind of simple. ",
     "Cause simple is the best.",
     "","As ever, this website would be kind of simple again. :P","Nothing noticeable..",
-    "So not get bored :(","","To explore more about me, <a style='color:black;', href='../intro.html'>click me</a>."
+    "So not get bored :(","","To explore more about me, <a style='color:black;', href='https://rezilz.github.io/First_Website/'>click me</a>."
     );
     var iSpeed = 70; // time delay of print out
     var iIndex = 0; // start printing array at this posision
